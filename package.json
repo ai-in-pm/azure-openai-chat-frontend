@@ -23,7 +23,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "dompurify": "^3.0.6",
+    "dompurify": "^3.2.4",
     "lit": "^2.8.0",
     "marked": "^9.1.5"
   },
@@ -34,6 +34,6 @@
     "@types/node": "^20.12.5",
     "rimraf": "^5.0.1",
     "typescript": "^5.2.2",
-    "vite": "^4.4.5"
+    "vite": "^6.2.5"
   }
 }
